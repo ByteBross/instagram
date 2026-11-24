@@ -1,0 +1,9 @@
+{
+  "name": "plantilla-xperience",
+  "private": true,
+  "description": "Personajes y motor de vídeo para los reels y carruseles de Xperience Studio",
+  "dependencies": {
+    "@fontsource-variable/inter-tight": "^5.3.0",
+    "@fontsource/instrument-serif": "^5.3.0"
+  }
+}

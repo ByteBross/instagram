@@ -1,0 +1,5 @@
+node_modules/
+salida/
+audio/
+still-*.jpg
+package-lock.json
